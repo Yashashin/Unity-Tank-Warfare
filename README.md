@@ -2,8 +2,9 @@
 遊戲程式設計Project1
 
 ## How to Play
-Goal: Destroy three of enemy tanks.
-Fail: Player HP goes to zero or Tank goes into ocean.
+Goal: Destroy three of enemy tanks. 
+
+Fail: Player HP goes to zero or tank goes into ocean.
 
 Weapons:
 - Tank Gun
@@ -36,5 +37,7 @@ Controller:
     - Turn on/off flashlight.
 
 Executable file was too large. Download it at: https://drive.google.com/drive/folders/14NU08-l_4TEQes1hNPzlx-RD8YeJljgr?usp=drive_link
+
+See screenshots in **Introduction.pdf**
 
 *IDE: Unity 2020.3*
