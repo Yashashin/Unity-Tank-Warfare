@@ -1,0 +1,333 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.29f1 (2ff179115da0) revision 3142009'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'zh' Physical Memory: 32655 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.29f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Unity Projects/Tank Warfare
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61154
+Successfully changed project path to: E:/Unity Projects/Tank Warfare
+E:/Unity Projects/Tank Warfare
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 35.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.29f1 (2ff179115da0)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.29f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Unity Projects/Tank Warfare/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 (ID=0x2507)
+    Vendor:   
+    VRAM:     8056 MB
+    Driver:   31.0.15.3640
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.29f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.29f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.29f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56008
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.29f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002270 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 45.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.563 seconds
+Domain Reload Profiling:
+	ReloadAssembly (563ms)
+		BeginReloadAssembly (58ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (436ms)
+			LoadAssemblies (56ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (131ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (175ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (46ms)
+				BeforeProcessingInitializeOnLoad (15ms)
+				ProcessInitializeOnLoadAttributes (80ms)
+				ProcessInitializeOnLoadMethodAttributes (29ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002810 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.836 seconds
+Domain Reload Profiling:
+	ReloadAssembly (837ms)
+		BeginReloadAssembly (133ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (18ms)
+		EndReloadAssembly (649ms)
+			LoadAssemblies (81ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (218ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (251ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (71ms)
+				ProcessInitializeOnLoadAttributes (159ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1709 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.4 MB.
+System memory in use after: 100.9 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2175.
+Total: 3.614600 ms (FindLiveObjects: 0.184100 ms CreateObjectMapping: 0.039000 ms MarkObjects: 3.036900 ms  DeleteObjects: 0.353500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Materials/enemy.mat
+  artifactKey: Guid(0e2bb551a8f7ee9489a55a57b29564d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/enemy.mat using Guid(0e2bb551a8f7ee9489a55a57b29564d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4919076fd58c9048f5cb0f4b7d117252') in 0.140613 seconds 
+  Import took 0.185040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.465799 seconds.
+  path: Assets/TankScene/Terrain/Terrain Variant.prefab
+  artifactKey: Guid(99bba5fccc467534cb2ec55723995394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TankScene/Terrain/Terrain Variant.prefab using Guid(99bba5fccc467534cb2ec55723995394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11bd95983c88e19c141f453c1b241c9a') in 0.016426 seconds 
+  Import took 0.047385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/TankScene/Terrain/Terrain.prefab
+  artifactKey: Guid(3133b7183cd3b1d4ab2194478a9bd42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TankScene/Terrain/Terrain.prefab using Guid(3133b7183cd3b1d4ab2194478a9bd42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd45c788504246321b20bc0604b6e6ecf') in 0.008966 seconds 
+  Import took 0.018251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.896081 seconds.
+  path: Assets/TankScene/TankScene/LightingData.asset
+  artifactKey: Guid(9af3a824a04291047b104aec77fb8345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TankScene/TankScene/LightingData.asset using Guid(9af3a824a04291047b104aec77fb8345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8765f1f06081415c771db0b01a39fc9') in 0.008409 seconds 
+  Import took 0.485642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/TankScene/TankScene/NavMesh-Nav Mesh.asset
+  artifactKey: Guid(c71c3651bfddab241a0f6b371f2189df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TankScene/TankScene/NavMesh-Nav Mesh.asset using Guid(c71c3651bfddab241a0f6b371f2189df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f62ae54ac3d76e272a78bc5e57035755') in 0.022615 seconds 
+  Import took 0.026550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/TankScene/TankScene/Lightmap-0_comp_dir.png
+  artifactKey: Guid(c2e151604825a67479d39502fe811a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TankScene/TankScene/Lightmap-0_comp_dir.png using Guid(c2e151604825a67479d39502fe811a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0993827191b71c975a8fdb1789d16bc') in 0.058517 seconds 
+  Import took 0.078065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/TankScene/TankScene/Lightmap-0_comp_light.exr
+  artifactKey: Guid(a8da9dd5bf6fa9d4d878649f3eb91e87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TankScene/TankScene/Lightmap-0_comp_light.exr using Guid(a8da9dd5bf6fa9d4d878649f3eb91e87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77438b3b9b78e22366b0858d4d2458bd') in 0.018010 seconds 
+  Import took 0.021427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/TankScene/TankScene/ReflectionProbe-0.exr
+  artifactKey: Guid(cfb559a15be150646976ed8747ac25f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TankScene/TankScene/ReflectionProbe-0.exr using Guid(cfb559a15be150646976ed8747ac25f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '706ae703c657436340139ad79d1a402f') in 0.022605 seconds 
+  Import took 0.035303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/TankScene/TankScene/ReflectionProbe-1.exr
+  artifactKey: Guid(caf77c4ba749bfc49bc2e53fc54e00e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TankScene/TankScene/ReflectionProbe-1.exr using Guid(caf77c4ba749bfc49bc2e53fc54e00e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e88e022857033b7c15baa7624725a9a0') in 0.015028 seconds 
+  Import took 0.018092 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Custom/RainShader': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 3.17 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.3 MB.
+System memory in use after: 66.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2220.
+Total: 3.931100 ms (FindLiveObjects: 0.247300 ms CreateObjectMapping: 0.045100 ms MarkObjects: 3.417000 ms  DeleteObjects: 0.220400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 463.542642 seconds.
+  path: Assets/TankScene/Terrain/Trees_WorldSpace_FREE
+  artifactKey: Guid(3606d3bf345378b4a9be2ea7e71d7d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TankScene/Terrain/Trees_WorldSpace_FREE using Guid(3606d3bf345378b4a9be2ea7e71d7d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67508295bbb8b384b921c45808e1d593') in 0.006681 seconds 
+  Import took 0.140803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.705334 seconds.
+  path: Assets/TankScene/Terrain/Environment
+  artifactKey: Guid(ccdeaf8de5e1b544e9e91c1408007830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TankScene/Terrain/Environment using Guid(ccdeaf8de5e1b544e9e91c1408007830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba0a007430bd4ffd98589db4f1ac3795') in 0.006426 seconds 
+  Import took 0.223772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.025025 seconds.
+  path: Assets/TankScene/Terrain/_TerrainAutoUpgrade
+  artifactKey: Guid(6acd7490d81ec574e9facde961ec15b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TankScene/Terrain/_TerrainAutoUpgrade using Guid(6acd7490d81ec574e9facde961ec15b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99b8a0ed12b26f3dd4f2de14f4c92432') in 0.007146 seconds 
+  Import took 0.010179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.102577 seconds.
+  path: Assets/TankScene/Terrain/Environment/Terrain/Textures/Cliff_2/Cliff_2_Diffuse.tif
+  artifactKey: Guid(d0111cb4aeac3a243ad5e9a93854f108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TankScene/Terrain/Environment/Terrain/Textures/Cliff_2/Cliff_2_Diffuse.tif using Guid(d0111cb4aeac3a243ad5e9a93854f108) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5963acf24fcef99a4233e803bc396138') in 0.061673 seconds 
+  Import took 0.081402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/TankScene/Terrain/Environment/Terrain/Textures/Cliff_2/Cliff_2_Normal.png
+  artifactKey: Guid(debbe2657a1008e4cabc9c52ece0fc1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TankScene/Terrain/Environment/Terrain/Textures/Cliff_2/Cliff_2_Normal.png using Guid(debbe2657a1008e4cabc9c52ece0fc1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a04ed3da070662167ccd3a3dbb8e0c8d') in 0.018733 seconds 
+  Import took 0.042711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.370400 seconds.
+  path: Assets/TankScene/Terrain/Environment/Terrain/Textures/Cliff_1/Cliff_1_Diffuse.tif
+  artifactKey: Guid(44c76103676243f41a593d9dcfb63e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TankScene/Terrain/Environment/Terrain/Textures/Cliff_1/Cliff_1_Diffuse.tif using Guid(44c76103676243f41a593d9dcfb63e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3c632bd7e0928b4822ca2f73541532d') in 0.013583 seconds 
+  Import took 0.016958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/TankScene/Terrain/Environment/Terrain/Textures/Cliff_1/Cliff_1_Normal.png
+  artifactKey: Guid(e5783c8549ee2f544a9ca3f56e404a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TankScene/Terrain/Environment/Terrain/Textures/Cliff_1/Cliff_1_Normal.png using Guid(e5783c8549ee2f544a9ca3f56e404a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fd12149c2ef05fa58da31fbe3426f90') in 0.016252 seconds 
+  Import took 0.020234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.482690 seconds.
+  path: Assets/TankScene/Terrain/Environment/Terrain/Textures/Dirt_2/Dirt_2_Diffuse.tif
+  artifactKey: Guid(be60de281999eee428cb58e0c908dc13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TankScene/Terrain/Environment/Terrain/Textures/Dirt_2/Dirt_2_Diffuse.tif using Guid(be60de281999eee428cb58e0c908dc13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd16f8702319964188839850fd22b380e') in 0.012426 seconds 
+  Import took 0.035625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/TankScene/Terrain/Environment/Terrain/Textures/Dirt_2/Dirt_2_Normal.png
+  artifactKey: Guid(10d36c98009eb3740bbcec3a9475db29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TankScene/Terrain/Environment/Terrain/Textures/Dirt_2/Dirt_2_Normal.png using Guid(10d36c98009eb3740bbcec3a9475db29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0452bb36ce553c609bcb50d7b790f6a') in 0.013992 seconds 
+  Import took 0.016842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.186598 seconds.
+  path: Assets/TankScene/Terrain/Environment/Terrain/Textures/Mossy_Rock/Mossy_Rock_Diffuse.tif
+  artifactKey: Guid(25aa1e93d2be86643bb80bb91e46a79b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TankScene/Terrain/Environment/Terrain/Textures/Mossy_Rock/Mossy_Rock_Diffuse.tif using Guid(25aa1e93d2be86643bb80bb91e46a79b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd28bc7af2e82450b2f0a0ff544fd4e5c') in 0.016838 seconds 
+  Import took 0.020034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/TankScene/Terrain/Environment/Terrain/Textures/Mossy_Rock/Mossy_Rock_Normal.png
+  artifactKey: Guid(59f60c0878b882d47aa2cdc4fad01ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TankScene/Terrain/Environment/Terrain/Textures/Mossy_Rock/Mossy_Rock_Normal.png using Guid(59f60c0878b882d47aa2cdc4fad01ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd1f60045bce7bc315a49f2c453a20d3') in 0.015765 seconds 
+  Import took 0.028834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.353835 seconds.
+  path: Assets/TankScene/Terrain/Environment/Terrain/Textures/Sand/Sand_Diffuse.tif
+  artifactKey: Guid(42df4504925e3c6428d6c62cdba23147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TankScene/Terrain/Environment/Terrain/Textures/Sand/Sand_Diffuse.tif using Guid(42df4504925e3c6428d6c62cdba23147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e70c77af473421bdc46e0dbdf33993c') in 0.013144 seconds 
+  Import took 0.023408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/TankScene/Terrain/Environment/Terrain/Textures/Sand/Sand_Normal.png
+  artifactKey: Guid(4461133173c4c6f4699bb1d9e2d83ba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TankScene/Terrain/Environment/Terrain/Textures/Sand/Sand_Normal.png using Guid(4461133173c4c6f4699bb1d9e2d83ba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c003ad9b3a9698ec40e44bf332b750c5') in 0.013681 seconds 
+  Import took 0.016374 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
