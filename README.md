@@ -2,21 +2,21 @@
 遊戲程式設計Project1
 
 ## How to Play
-Goal: Destroy three of enemy tanks. 
+Goal: Destroy three enemy tanks.
 
-Fail: Player HP goes to zero or tank goes into ocean.
+Failure: Player HP reaches zero or a tank falls into the ocean.
 
 Weapons:
 - Tank Gun
-    - Press left mouse button to fire.
-    - 5 bullets for each magezine.
+    - Press the left mouse button to fire.
+    - 5 bullets per magezine.
     - Unlimited reloading.
 - Air Support
-    - Press right mouse button to call for air support(need aiming).
-    - 10 calls only.
+    - Press the right mouse button to call for air support (requires aiming).
+    - 10 uses only.
 - Back RPG
     - Press E to fire.
-    - 1 chance only.
+    - Single use only.
 
 Controller:
 - WASD
@@ -32,9 +32,9 @@ Controller:
 - G
     - Switch to FPS Camera
 - Q
-    - Turn on/off laser.
+    - Toggle laser on/off
 - F
-    - Turn on/off flashlight.
+    - Toggle flashlight on/off
 
 Executable file was too large. Download it at: https://drive.google.com/drive/folders/14NU08-l_4TEQes1hNPzlx-RD8YeJljgr?usp=drive_link
 
